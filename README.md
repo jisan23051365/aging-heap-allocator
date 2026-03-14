@@ -15,10 +15,6 @@ This project illustrates a conceptual memory management strategy where memory bl
 - C Programming Language
 - Standard C Libraries
 
-## Project Structureaging-heap-allocator
-│
-├── main.c
-└── README.md
 ## How It Works
 
 1. A memory block is allocated with an ID and size.
